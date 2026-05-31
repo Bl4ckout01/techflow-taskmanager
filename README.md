@@ -338,4 +338,5 @@ git commit -m "Documenta mudança de escopo do projeto"
 Projeto acadêmico desenvolvido para simular a aplicação de metodologias ágeis em um ambiente de desenvolvimento de software.
 
 ## Atualização 1
-Documentação revisada em 30/05/2026.
+
+Revisão da documentação do projeto para melhoria das instruções de uso.
